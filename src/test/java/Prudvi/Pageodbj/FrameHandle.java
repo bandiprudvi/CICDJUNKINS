@@ -69,6 +69,9 @@ public class FrameHandle extends Baseclass  {
 public void Ramam1() {
 		
 	}
+	public void Ramam2() {
+		
+	}
 
 	
 }
